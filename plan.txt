@@ -1,0 +1,3 @@
+koncept - Skapa en funktion som droppar loot med slumpmässiga stats med hjälp av dictionaries
+        och random modulen.
+
